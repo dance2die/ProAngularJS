@@ -73,6 +73,10 @@
     <None Include="jquery-2.1.1.intellisense.js" />
     <Content Include="jquery-2.1.1.js" />
     <Content Include="Listing 16.html" />
+    <Content Include="Listing 21.html" />
+    <Content Include="Listing 22.html" />
+    <Content Include="Listing 23.html" />
+    <Content Include="Listing 24.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
