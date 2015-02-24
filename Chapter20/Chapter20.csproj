@@ -65,6 +65,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ajax.html" />
     <Content Include="angular.js" />
     <Content Include="bootstrap-theme.css" />
     <Content Include="bootstrap.css" />
@@ -73,6 +74,16 @@
     <None Include="jquery-2.1.1.intellisense.js" />
     <Content Include="jquery-2.1.1.js" />
     <Content Include="Listing 03.html" />
+    <Content Include="Listing 04.html" />
+    <Content Include="Listing 07.html" />
+    <Content Include="Listing 08.html" />
+    <Content Include="Listing 10.html" />
+    <Content Include="Listing 11.html" />
+    <Content Include="Listing 13.html" />
+    <Content Include="Listing 15.html" />
+    <Content Include="productData.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Web.config" />
     <Content Include="productData.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
