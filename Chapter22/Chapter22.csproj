@@ -76,8 +76,6 @@
     <None Include="jquery-2.1.1.intellisense.js" />
     <Content Include="increment.js" />
     <Content Include="jquery-2.1.1.js" />
-    <Content Include="Listing 05.html" />
-    <Content Include="Listing 07.html" />
     <Content Include="products.html" />
     <Content Include="products.js" />
     <Content Include="tableView.html" />
@@ -89,10 +87,7 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
